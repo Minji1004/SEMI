@@ -57,7 +57,7 @@
 	</header>
 	
 	<div class="bottom clear">
-				<img src="<%=cp%>/resource/images/loveumijung.jpg" alt="이미지" style="width:100%; height:120px;">
+				<img src="<%=cp%>/resource/images/ironman.jpg" alt="이미지" style="width:100%; height:300px;">
 			</div>
 	<div id="container" class="clear">
 		<!-- contents -->
