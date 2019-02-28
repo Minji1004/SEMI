@@ -9,19 +9,22 @@ a{color:#333333;text-decoration:none;}
 #wrap header #header .top .gnb ul li{float:left;list-style:none;}
 #wrap #container .contents .box ul li{float:left;list-style:none;}
 
-footer{clear:both;}
-footer .links{width:100%;overflow:hidden; padding:10px 0;border-top:1px solid #c4c4c4; border-bottom:1px solid #c4c4c4; display:inline-block; text-align:center;}
-footer .links ul li{float:left;height:30px;line-height:30px; margin:0; padding:0; list-style:none; margin-right: 10px;}
-footer .links ul li span{float:left; margin-left:10px;margin-right:10px;}
-footer .copyright{padding:10px 0;}
+footer{clear:both; text-align:center;}
+footer .links{color:white;background:#0047ab;width:100%;overflow:hidden; padding:10px 0;border-top:1px solid white; border-bottom:1px solid white; text-align:center;}
+footer .links ul li{color:white;float:left;height:30px;line-height:30px; margin:0; padding:0; list-style:none; margin-right: 10px;}
+footer .links ul li a{color:white;}
+footer .links ul li span{color:white;float:left; margin-left:10px;margin-right:10px;}
+footer .links .haha{display:inline-block;}
+footer .copyright{color:white;background:#0047ab;padding:10px 0;}
 
 #wrap header .header{text-align:center;}
-#wrap header .header .top{ padding-left:20px; padding-top:5px;}
-#wrap header .header .top .title a{float:left; color:white; }
+#wrap header .header .top{ padding-left:20px; padding-top:10px;}
+#wrap header .header .top .title a{float:left; color:white; padding-right:5px;}
 #wrap header .header .top .userInfo ul{height:50px;line-height:50px;}
 #wrap header .header .top .userInfo ul li{float:left;list-style:none;}
 #wrap header .header .top .userInfo{float:right;}
-#wrap header .header .top .userInfo a {color:white;}
+#wrap header .header .top .userInfo span{color:white; margin-right: 20px;}
+#wrap header .header .top .userInfo a {color:white; margin-right: 20px;}
 
 #wrap header .header .bottom{border-top:1px solid #c4c4c4;}
 #wrap header .header .bottom .gnb{display:inline-block;}
