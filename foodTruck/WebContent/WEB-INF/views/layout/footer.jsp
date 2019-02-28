@@ -6,10 +6,22 @@
    String cp = request.getContextPath();
 %>
 
-<a href="">SPRING 정책 및 약관</a>&nbsp;&nbsp;&nbsp;
-<a href="">회사소개</a>&nbsp;&nbsp;&nbsp;
-<a href="">제휴제안</a>&nbsp;&nbsp;&nbsp;
-<a href="">이용약관</a>&nbsp;&nbsp;&nbsp;
-<a href="">개인정보취급방침</a>&nbsp;&nbsp;&nbsp;
-<a href="">고객센터</a>&nbsp;&nbsp;&nbsp;
-© SPRING Corp.
+
+<footer>
+     <div class="links">
+                    <ul>
+                        <li><a>이용약관</a></li>
+                        <li><span>|</span></li>
+                        <li><a>공지사항</a></li>
+                        <li><span>|</span></li>
+                        <li><a>트럭사장님</a></li>
+                        <li><span>|</span></li>
+                        <li><a>입점문의</a></li>
+                    </ul>
+                </div>
+                <div class="copyright">
+                    <p>(유)지존트럭 코리아
+	서울시 강남구 봉은사로 4 중수빌딩 17층 |대표자 : zi존중수 |사업자등록번호:123-456-789 사업자정보확인통신판매업신고:제 2018-서울강남-2635호|개인정보담당자 : privacy@zizone.co.kr|제휴문의 : partnership@zizone.co.kr|고객만족센터 : support@zizone.co.kr|호스트서비스사업자 : 쌍용교육센터</p>
+                </div>
+        </footer>
+

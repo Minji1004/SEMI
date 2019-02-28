@@ -27,28 +27,16 @@
 </div>
 	
 <div class="container">
-	<ul>
-    	<li>
-        	<div style="margin-right:0;box-sizing:border-box;">
-            	<img src="" alt="이미지">
-        	</div>
-    	</li>
-    	<li>
-        	<div>
-            	<img src="" alt="이미지">
-        	</div>
-    	</li>
-   		<li>
-        	<div>
-            	<img src="" alt="이미지">
-    		</div>
-		</li>
-		<li>
-			<div>
-				<img src="" alt="이미지">
-			</div>
-		</li>
-	</ul>
+    <div class="body-container" style="width: 700px;">
+        <div class="body-title">
+            <h3><span style="font-family: Webdings">2</span> 제목 </h3>
+        </div>
+        
+        <div>
+            내용
+        </div>
+
+    </div>
 </div>
 
 <div class="footer">

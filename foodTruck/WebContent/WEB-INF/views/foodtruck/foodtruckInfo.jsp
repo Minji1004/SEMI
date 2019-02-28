@@ -10,5 +10,50 @@
 </head>
 <body>
 
+<div class="category-list">
+	<div class="categorybox">
+		<a href="">
+			<div class="category-title">전체보기</div>
+		</a>
+	</div>	
+	
+	<div class="categorybox">
+		<a href="">
+			<div class="category-title">한식</div>
+		</a>
+	</div>	
+
+	<div class="categorybox">
+		<a href="#">
+			<div class="category-title">중식</div>
+		</a>
+	</div>	
+	
+	<div class="categorybox">
+		<a href="#">
+			<div class="category-title">양식</div>
+		</a>
+	</div>	
+	
+	<div class="categorybox">
+		<a href="#">
+			<div class="category-title">분식</div>
+		</a>
+	</div>	
+	
+	<div class="categorybox">
+		<a href="#">
+			<div class="category-title">타이음식</div>
+		</a>
+	</div>	
+	
+	<div class="categorybox">
+		<a href="#">
+			<div class="category-title">전체보기</div>
+		</a>
+	</div>	
+	
+</div>
+
 </body>
 </html>
