@@ -34,13 +34,18 @@
 				</h1>
 
 				<!-- 회원 : 우측영역 -->
-				<div class="userInfo">
+				<div class="login">
 					<ul>
-						<li><a>로그인</a></li>
 						<li><span>|</span></li>
+						<li><a>로그인</a></li>
+					</ul>
+				</div>
+				<div class="join">
+					<ul>
 						<li><a>회원가입</a></li>
 					</ul>
 				</div>
+				
 				<!-- //회원 -->
 			</div>
 			<!-- 

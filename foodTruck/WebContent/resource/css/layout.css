@@ -15,16 +15,22 @@ footer .links ul li{color:white;float:left;height:30px;line-height:30px; margin:
 footer .links ul li a{color:white;}
 footer .links ul li span{color:white;float:left; margin-left:10px;margin-right:10px;}
 footer .links .haha{display:inline-block;}
-footer .copyright{color:white;background:#0047ab;padding:10px 0;}
+footer .copyright{color:white;background:#0047ab;padding:10px 150px;}
 
 #wrap header .header{text-align:center;}
-#wrap header .header .top{ padding-left:20px; padding-top:10px;}
-#wrap header .header .top .title a{float:left; color:white; padding-right:5px;}
-#wrap header .header .top .userInfo ul{height:50px;line-height:50px;}
-#wrap header .header .top .userInfo ul li{float:left;list-style:none;}
-#wrap header .header .top .userInfo{float:right;}
-#wrap header .header .top .userInfo span{color:white; margin-right: 20px;}
-#wrap header .header .top .userInfo a {color:white; margin-right: 20px;}
+
+#wrap header .header .top .title a{float:left; color:white; margin-bottom:10px;}
+
+#wrap header .header .top .join ul li{float:left;list-style:none;}
+#wrap header .header .top .join{float:right;}
+#wrap header .header .top .join a {color:white;}
+
+#wrap header .header .top{ padding-left:300px; padding-top:20px;}
+#wrap header .header .top .login ul li{float:left;list-style:none;}
+#wrap header .header .top .login{float:right;}
+#wrap header .header .top .login a {color:white; padding-right:200px;}
+#wrap header .header .top .login span{color:white; margin: 0 15px;}
+
 
 #wrap header .header .bottom{border-top:1px solid #c4c4c4;}
 #wrap header .header .bottom .gnb{display:inline-block;}
